@@ -53,6 +53,7 @@ Maintained by **Quants Note**.
 Connecting Financial Engineering, Python, and Technical SEO.
 
 - **Blog**: [Quants Note](https://www.quantsnote.com)
+- **Academy**: [Academy Q](https://academy.quantsnote.com)
 - **Tool**: [Compound Interest Calculator](https://www.quantsnote.com/compound-interest-calculator/)
 
 ## 📄 License
