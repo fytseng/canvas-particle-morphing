@@ -56,6 +56,11 @@ Connecting Financial Engineering, Python, and Technical SEO.
 - **Academy**: [Academy Q](https://academy.quantsnote.com)
 - **Tool**: [Compound Interest Calculator](https://www.quantsnote.com/compound-interest-calculator/)
 
+## ✨ Inspiration
+
+Special thanks to my friend **[Oberon Lai](https://oberonlai.blog/)**. 
+The core concept for this particle system was inspired by the "W" logo animation on his website, [Bazewp](https://bazewp.com/).
+
 ## 📄 License
 
 MIT License.
