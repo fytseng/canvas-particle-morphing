@@ -6,7 +6,7 @@ Originally built for the [Quants Note](https://www.quantsnote.com) "About Me" pa
 
 <br>
 <div align="center">
-  <img src="demo.png" width="100%" style="max-width: 700px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" alt="Canvas Particle Morphing Demo">
+  <img src="demo.gif" width="100%" style="max-width: 700px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" alt="Canvas Particle Morphing Demo">
 </div>
 <br>
 
